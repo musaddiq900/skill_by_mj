@@ -1,0 +1,9 @@
+composer require spatie/laravel-permission
+composer require spatie/laravel-backup
+composer require spatie/laravel-activitylog
+composer require spatie/laravel-medialibrary
+composer require spatie/laravel-translatable
+composer require unisharp/laravel-filemanager
+composer require intervention/image
+composer require cviebrock/eloquent-sluggable
+composer require livewire/livewire
